@@ -1,0 +1,38 @@
+﻿  allscore.cpp
+c:\users\student\documents\visual studio 2015\projects\2dgame2_01\main.h(8): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  bg.cpp
+c:\users\student\documents\visual studio 2015\projects\2dgame2_01\main.h(8): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  brock.cpp
+c:\users\student\documents\visual studio 2015\projects\2dgame2_01\main.h(8): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  bullet.cpp
+c:\users\student\documents\visual studio 2015\projects\2dgame2_01\main.h(8): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  enemy.cpp
+c:\users\student\documents\visual studio 2015\projects\2dgame2_01\main.h(8): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  enemy2.cpp
+c:\users\student\documents\visual studio 2015\projects\2dgame2_01\main.h(8): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  explosion.cpp
+c:\users\student\documents\visual studio 2015\projects\2dgame2_01\main.h(8): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  fade.cpp
+c:\users\student\documents\visual studio 2015\projects\2dgame2_01\main.h(8): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  game.cpp
+c:\users\student\documents\visual studio 2015\projects\2dgame2_01\main.h(8): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  input.cpp
+c:\users\student\documents\visual studio 2015\projects\2dgame2_01\main.h(8): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  main.cpp
+c:\users\student\documents\visual studio 2015\projects\2dgame2_01\main.h(8): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  pause.cpp
+c:\users\student\documents\visual studio 2015\projects\2dgame2_01\main.h(8): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  player.cpp
+c:\users\student\documents\visual studio 2015\projects\2dgame2_01\main.h(8): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  result.cpp
+c:\users\student\documents\visual studio 2015\projects\2dgame2_01\main.h(8): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  score.cpp
+c:\users\student\documents\visual studio 2015\projects\2dgame2_01\main.h(8): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  sound.cpp
+c:\users\student\documents\visual studio 2015\projects\2dgame2_01\main.h(8): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  timer.cpp
+c:\users\student\documents\visual studio 2015\projects\2dgame2_01\main.h(8): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  title.cpp
+c:\users\student\documents\visual studio 2015\projects\2dgame2_01\main.h(8): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  tutorial.cpp
+c:\users\student\documents\visual studio 2015\projects\2dgame2_01\main.h(8): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
